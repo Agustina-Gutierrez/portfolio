@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'Fact-ExpandedExtraBold';
+  src: url('fonts/Fact/Fact-ExpandedExtraBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AkweProExt';
+  src: url('fonts/Akwe/AkweProExt-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/RobotoCondensed-Regular.ttf') format('truetype');
+}
+nav{
+	font-family: AkweProExt;
+	font-size: 30px;
+}
+#menu{
+	border-start-end-radius: 20px;
+	border-start-start-radius: 20px;
+	padding: 20px;
+	background-color: #272f4e;
+}
+#menu ul li a{
+	color: white;
+}
+#name{
+	font-family: Fact-ExpandedExtraBold ;
+	font-size: 30px;
+	background-color:#1b2039 ;
+	border-radius: 20px;
+
+}
+#page{
+	background-color: #1b2039;
+	color: white;
+	text-align: center;
+	padding: 60px;
+	font-family: Roboto ;
+	font-size: 25px;
+}
+#adn{
+		background-color:  #1b2039;
+}
+#content{
+	background-color:  #1b2039;
+}
+#habilidades{
+	background-color: #1b2039;
+}
+#proyects{
+	background-color: #1b2039;
+}
+h1{
+	color: #00adee;
+	text-align: center;
+	font-family: Fact-ExpandedExtraBold ;
+	padding: 60px;
+}
+h2{
+	color: #00adee;
+	text-align: center;
+	font-family: AkweProExt ;
+	padding: 40px;
+}
+#card-body{
+	background-color: white;
+}
+#fondo{
+	position: relative;
+	display: inline-block;
+}
+#my-form{
+	color: white;
+	background-color: #1b2039;
+
+}
+#my-form-button{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: AkweProExt ;
+}
+footer{
+	background-color:  #272f4e;
+	border-end-end-radius: 20px;
+ border-end-start-radius: 20px;
+}
+#btn-footer{
+ margin: auto;
+ width: auto;
+ padding: 20px;
+ font-family: AkweProExt;
+}
