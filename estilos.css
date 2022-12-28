@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'Fact-ExpandedExtraBold';
-  src: url('fonts/Fact/Fact-ExpandedExtraBold.ttf') format('truetype');
+  src: url('Fact-ExpandedExtraBold.ttf') format('truetype');
 }
 @font-face {
   font-family: 'AkweProExt';
-  src: url('fonts/Akwe/AkweProExt-Bold.ttf') format('truetype');
+  src: url('AkweProExt-Bold.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Roboto';
-  src: url('fonts/Roboto/RobotoCondensed-Regular.ttf') format('truetype');
+  src: url('RobotoCondensed-Regular.ttf') format('truetype');
 }
 nav{
 	font-family: AkweProExt;
